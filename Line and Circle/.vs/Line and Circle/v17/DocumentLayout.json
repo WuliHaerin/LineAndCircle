@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Line and Circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|d:\\unity\\line and circle\\assets\\circle clone template\\scripts\\circlemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\circlemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|d:\\unity\\line and circle\\assets\\circle clone template\\scripts\\collisionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\collisionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|d:\\unity\\line and circle\\assets\\circle clone template\\scripts\\challengegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\challengegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|D:\\Unity\\Line and Circle\\assets\\circle clone template\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|d:\\unity\\line and circle\\assets\\circle clone template\\scripts\\logoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\logoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|D:\\Unity\\Line and Circle\\assets\\circle clone template\\scripts\\initiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\initiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|D:\\Unity\\Line and Circle\\assets\\circle clone template\\scripts\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|d:\\unity\\line and circle\\assets\\circle clone template\\scripts\\challengeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\challengeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|D:\\Unity\\Line and Circle\\assets\\circle clone template\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|D:\\Unity\\Line and Circle\\assets\\circle clone template\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A49A323-A7E2-46B9-60C4-37DC7ED7C046}|Assembly-CSharp.csproj|solutionrelative:assets\\circle clone template\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogoScene.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\LogoScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\LogoScene.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\LogoScene.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\LogoScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:31:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionSensor.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CollisionSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\CollisionSensor.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CollisionSensor.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\CollisionSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:31:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChallengeInfo.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\ChallengeInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\ChallengeInfo.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\ChallengeInfo.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\ChallengeInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:31:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChallengeGenerator.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\ChallengeGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\ChallengeGenerator.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\ChallengeGenerator.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\ChallengeGenerator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:30:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:15:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\CebianlanManager.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:58:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircleMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CircleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\CircleMovement.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\CircleMovement.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\CircleMovement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:15:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fader.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\Fader.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\Fader.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\Fader.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\Fader.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:12:06.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\MenuController.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwIAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:11:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:01:10.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:17:13.026Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Initiate.cs",
+              "DocumentMoniker": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\Initiate.cs",
+              "RelativeDocumentMoniker": "Assets\\Circle Clone Template\\Scripts\\Initiate.cs",
+              "ToolTip": "D:\\Unity\\Line and Circle\\Assets\\Circle Clone Template\\Scripts\\Initiate.cs",
+              "RelativeToolTip": "Assets\\Circle Clone Template\\Scripts\\Initiate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:11:38.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
